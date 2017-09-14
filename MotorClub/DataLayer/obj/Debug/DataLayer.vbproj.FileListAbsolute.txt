@@ -1,0 +1,14 @@
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\DataLayer\bin\Debug\MotorClub.accdb
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\DataLayer\bin\Debug\MotorClubDataSet.Designer.vb
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\DataLayer\bin\Debug\MotorClubDataSet.xsc
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\DataLayer\bin\Debug\MotorClubDataSet.xsd
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\DataLayer\bin\Debug\MotorClubDataSet.xss
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\DataLayer\bin\Debug\DataLayer.dll.config
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\DataLayer\bin\Debug\DataLayer.dll
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\DataLayer\bin\Debug\DataLayer.pdb
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\DataLayer\bin\Debug\DataLayer.xml
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\DataLayer\obj\Debug\DataLayer.Resources.resources
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\DataLayer\obj\Debug\DataLayer.vbproj.GenerateResource.Cache
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\DataLayer\obj\Debug\DataLayer.dll
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\DataLayer\obj\Debug\DataLayer.xml
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\DataLayer\obj\Debug\DataLayer.pdb

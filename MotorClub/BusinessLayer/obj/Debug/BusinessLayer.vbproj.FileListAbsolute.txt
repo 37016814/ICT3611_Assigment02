@@ -1,0 +1,17 @@
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\BusinessLayer\bin\Debug\MotorClub.accdb
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\BusinessLayer\bin\Debug\MotorClubDataSet.Designer.vb
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\BusinessLayer\bin\Debug\MotorClubDataSet.xsc
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\BusinessLayer\bin\Debug\MotorClubDataSet.xsd
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\BusinessLayer\bin\Debug\MotorClubDataSet.xss
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\BusinessLayer\bin\Debug\BusinessLayer.dll
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\BusinessLayer\bin\Debug\BusinessLayer.pdb
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\BusinessLayer\bin\Debug\BusinessLayer.xml
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\BusinessLayer\bin\Debug\DataLayer.dll
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\BusinessLayer\bin\Debug\DataLayer.pdb
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\BusinessLayer\bin\Debug\DataLayer.xml
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\BusinessLayer\obj\Debug\BusinessLayer.vbprojResolveAssemblyReference.cache
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\BusinessLayer\obj\Debug\BusinessLayer.Resources.resources
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\BusinessLayer\obj\Debug\BusinessLayer.vbproj.GenerateResource.Cache
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\BusinessLayer\obj\Debug\BusinessLayer.dll
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\BusinessLayer\obj\Debug\BusinessLayer.xml
+c:\users\nyathi\documents\visual studio 2012\Projects\MotorClub\BusinessLayer\obj\Debug\BusinessLayer.pdb
